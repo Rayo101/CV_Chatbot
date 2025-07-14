@@ -1,0 +1,30 @@
+I was a primary researcher in the Department of Physics at the University of Cape Town, conducting computational physics research focused on algorithm development, Monte Carlo simulations, and machine learning applications for particle tracking. My work involved automating data analysis pipelines, developing simulation tools using Geant4/GATE, and collaborating with researchers across institutions including Imperial College London, iThemba LABS, and Stellenbosch University.
+
+- Developed an automated Python/C++ pipeline to extract motion data from PEPT experiments, improving resolution under noisy conditions.
+- Created a Geant4/GATE simulation of a PET scanner to automate data processing workflows and test experimental setups.
+- Built and evaluated a supervised ML-based denoising pipeline to improve signal clarity in turbulent flow studies.
+- Analyzed froth flotation experiments using PEPT data to quantify differences in motion between hydrophobic and hydrophilic particles.
+
+- Problem: Noisy sensor data made accurate particle tracking difficult in industrial-like environments.
+  Solution: Designed a custom ML-based denoising pipeline that significantly improved signal clarity.
+
+- Problem: Manual simulation setup and analysis slowed down research progress.
+  Solution: Automated full simulation and analysis workflows using Python scripts and batch processing.
+
+- Problem: Limited access to real-world experimental setups.
+  Solution: Built high-fidelity digital twins using limited PET data and Geant4/GATE simulations to validate tracking algorithms.
+
+As part of my MSc research at the University of Cape Town, I worked on developing a novel time-of-flight PEPT tracking algorithm designed to detect turbulent flow patterns in noisy environments. This project was conducted in collaboration with Tygerberg Hospital and the University of Freiburg, combining medical imaging techniques with computational physics.
+
+- Developed a time-of-flight PEPT tracking algorithm to improve spatial and temporal resolution in complex flow environments.
+- Used CT scans to model internal structures of flotation cells, supporting fluid dynamics analysis in collaboration with Stellenbosch University Medical Physics.
+- Validated algorithm performance through extensive simulation and comparison with experimental datasets.
+
+- Problem: Existing PEPT methods struggled with temporal resolution in dynamic flows.
+  Solution: Introduced time-of-flight information into the reconstruction algorithm to enhance tracking accuracy.
+
+- Problem: Interdisciplinary communication barriers between physics and medical teams.
+  Solution: Acted as a technical liaison, translating complex physics concepts into accessible insights for medical collaborators.
+
+- Problem: High computational cost of iterative simulations.
+  Solution: Optimized code performance using parallel computing.

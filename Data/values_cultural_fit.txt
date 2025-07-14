@@ -1,0 +1,61 @@
+My technical foundation is built around solving complex, physics-driven problems using software engineering principles. Here's a deeper look at my core technical skills:
+
+**Python**: I use Python extensively for data analysis, pipeline automation, and machine learning. I’m comfortable building scalable scripts, wrapping C++ extensions, and optimizing performance with NumPy and Pandas. I've also worked with PyTorch for supervised learning tasks, scikit-learn for classical ML, and matplotlib for visualisation. I've made some damm beautfil plots in my days. They were clear and and straight to the point as well. 
+
+**C++**: My work with Geant4/GATE has given me strong experience in object-oriented design, memory management, and performance optimization. I’ve written custom modules for particle tracking simulations and integrated them into large-scale frameworks.
+
+**Machine Learning**: I’ve applied both supervised and unsupervised learning techniques to real-world datasets — from denoising sensor data to extracting motion patterns from noisy PEPT experiments. I understand model evaluation, overfitting, and how to interpret results in practical terms. I can build models from scratch if need be, which is always something I enjoy doing.
+
+**Algorithm Development**: Much of my PhD focused on designing novel algorithms for particle tracking under noisy conditions. This involved statistical modeling, Monte Carlo methods, and iterative testing through simulation.
+
+**Data Pipelines**: I’ve automated full simulation-to-analysis workflows using Python, including batch processing, logging, and visualization stages.
+
+**Git & Dev Practices**: I use Git for version control and collaboration across teams. 
+
+I’ve worked with a range of tools across research, teaching, and personal projects:
+
+**Geant4/GATE**: These were central to my PhD work. I used them to simulate PET scanners and test particle tracking algorithms. I developed custom modules to extend their functionality and integrated them with Python-based analysis pipelines.
+
+**PyTorch & scikit-learn**: Used for building and evaluating ML models — especially for denoising and classification tasks in experimental data.
+
+**NumPy/Pandas/Matplotlib**: Core tools for all my data analysis work, from cleaning raw PEPT data to visualizing flow patterns in industrial simulations.
+
+**Git**: I use Git for managing simulation code, ML scripts, and teaching materials. I’m comfortable with collaborative workflows, rebasing, resolving conflicts, and maintaining clean commit histories.
+
+**LaTeX**: Heavily used for thesis writing, paper submissions, and creating lecture notes with precise mathematical formatting.
+
+**MATLAB**: Used during undergrad and early work.
+
+**Jupyter Notebooks**: Great for exploratory analysis and sharing interactive examples with junior researchers or collaborators.
+
+**Linux CLI**: Essential for automating simulation runs, managing HPC clusters, and streamlining repetitive tasks.
+
+While my technical skills are strong, I’ve also grown a lot in soft skills through teaching, mentoring, and interdisciplinary collaboration:
+
+**Communication**: As a course tutor and lecturer at UCT, I explained complex physics and computational concepts to students with varying levels of understanding. I learned how to break down difficult topics, encourage questions, and adapt explanations based on audience needs.
+
+**Collaboration**: My research brought me into contact with medical physicists, engineers, and hospital staff. Each group had different priorities and ways of working, so I acted as a bridge and translated technical findings into actionable insights and helping align goals between disciplines.
+
+**Mentoring**: I’ve mentored six+ students on topics ranging from PEPT data analysis to Geant4 simulations and ML pipelines. I enjoy guiding others through problem-solving rather than giving direct answers, helping them build confidence and independence.
+
+**Self-directed Learning**: A lot of my PhD involved figuring things out independently, whether it was debugging simulation issues, learning new ML techniques, or picking up CUDA for GPU acceleration (WIP). I’m comfortable diving into documentation, forums, and source code to solve problems.
+
+**Time Management & Organization**: Juggling research, teaching, and supervision taught me how to plan ahead, set realistic deadlines, and prioritize effectively, especially when working on long-term, open-ended projects.
+
+I value impact, curiosity, and integrity in my work. I believe that technology should solve real problems — not just be technically impressive. Whether it's building simulation tools or automating data pipelines, I aim to create systems that are clear, maintainable, and useful to others.
+
+I deeply respect environments where people are trusted to take ownership and make decisions — something Silvertree emphasizes. I thrive when given autonomy, but I also understand the importance of transparency, documentation, and accountability.
+
+I’m passionate about continuous improvement — both in code and in myself. I appreciate cultures that encourage experimentation, reward thoughtful risk-taking, and support learning through doing.
+
+I enjoy working collaboratively and believe that diverse perspectives lead to better solutions. During my PhD, I worked with researchers across institutions like Imperial College London, iThemba LABS, and Stellenbosch University. These experiences taught me how to communicate clearly across disciplines, manage expectations, and align goals even when teams have different priorities.
+
+I prefer open communication, shared ownership of projects, and giving/receiving constructive feedback early and often. I’ve mentored six+ students in topics ranging from PEPT analysis to Geant4 simulations, and I’ve learned that great teamwork starts with listening, understanding, and adapting.
+
+I'm comfortable stepping into leadership roles when needed, but I also enjoy supporting others and contributing as part of a larger effort — depending on what the project needs at any stage.
+
+I learn best by doing — diving into problems, experimenting, and iterating based on results. My PhD was largely self-directed, which meant figuring things out independently — whether it was debugging simulation issues, learning Machine learning, or picking up new ML techniques from papers and tutorials.
+
+I use documentation, forums, LLM models, and source code to understand tools from the inside out. When I don’t know something, I ask targeted questions, break problems into smaller parts, and test small prototypes before scaling up.
+
+I also value mentorship and discussion. I’ve benefited greatly from guidance during my research and teaching roles, and I actively seek feedback to improve. I believe structured learning has its place, but most of my growth has come from tackling real-world challenges head-on.

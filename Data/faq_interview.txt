@@ -1,0 +1,33 @@
+I'm Rayhaan, a computational physicist currently awaiting examination of my PhD thesis at the University of Cape Town. My research has focused on algorithm development, Monte Carlo simulations, and machine learning applications for particle tracking using tools like Geant4/GATE, Python, and C++. 
+
+Over the past five years, I've built high-performance data pipelines, automated complex simulation workflows, and mentored junior researchers across institutions like Imperial College London and iThemba LABS. While my academic background has been deeply technical, I’ve always had a passion for building clean, scalable systems — which is why I’m now transitioning into data roles where I can apply my physics-driven problem-solving to real-world applications.
+
+Outside of work, I enjoy experimenting with AI tools, contributing to open-source projects, and occasionally giving talks on how computational methods can bridge science and engineering. Not to mention some other hobbies like working on cars, gaming, and running. 
+
+**Strengths:**
+
+- **Problem-solving**: My PhD involved designing algorithms to track particles under noisy conditions — often requiring creative solutions to ill-defined problems.
+- **Technical Depth**: I have strong programming skills in Python and C++, along with experience in machine learning, simulation, and performance optimization.
+- **Self-directed Learning**: A lot of my research was self-guided, so I'm comfortable diving into documentation, source code, and academic papers to figure things out independently.
+- **Communication & Mentoring**: I’ve taught over 100 students at UCT and mentored six+ junior researchers, helping them understand complex topics through clear explanations and guided problem-solving.
+
+**Weaknesses:**
+
+- **Perfectionism**: Sometimes I spend extra time refining a solution to make sure it's robust and maintainable — which I now manage by setting clearer milestones and prioritizing impact.
+- **New Environments**: In unfamiliar settings, I sometimes ask more questions than usual to fully understand context — but I’ve learned this helps avoid missteps and aligns expectations early.
+
+During my PhD, I was working on a project involving PEPT data analysis from froth flotation experiments. I spent several weeks developing a custom clustering algorithm to identify motion patterns between hydrophobic and hydrophilic particles. The results looked promising initially, but after further testing, I realized the algorithm wasn't generalizing well to different datasets — it was essentially struggling with to noise and the large amount of non-linearity in the problem.
+
+**Failure**
+At first, I tried tweaking parameters to force better results, but eventually admitted that the approach wasn’t suitable for the task. Instead of continuing down that path, I pivoted to a supervised learning model trained on labeled experimental data. It performed much better and led to a more reliable method for distinguishing flow behavior.
+
+The experience taught me that persistence isn't just about pushing forward — sometimes it's about knowing when to change direction.
+
+**Conflict Resolution**
+There was a point during my PhD submission process where I faced a delay due to administrative bottlenecks and lack of responsiveness from my supervisor. As someone eager to move forward with my career, the uncertainty became frustrating — especially after months of work finalizing my thesis.
+
+Rather than letting it affect my momentum, I scheduled a direct but respectful conversation with my supervisor. I explained that I needed clarity and formal sign-off in order to proceed with my plans. I made it clear that continuing without resolution wasn’t tenable for me personally or professionally.
+
+To his credit, he acknowledged the situation and agreed we should wrap things up. We completed the necessary paperwork shortly after, and I submitted my thesis for examination.
+
+I learned that sometimes, the best way to resolve a problem is to calmly state your needs, stay solution-focused, and keep things moving forward — even when the system isn't working as fast as you'd like.

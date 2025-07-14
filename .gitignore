@@ -1,0 +1,5 @@
+# No secrets, not going to upload the db, venv can be recreated with requirements.txt and last text file contains git token. 
+.env
+chroma_persistant_path/
+venv/
+git_tk.txt

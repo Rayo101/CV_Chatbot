@@ -1,0 +1,27 @@
+I hold a B.Sc. and B.Hons. in Physics from the University of Cape Town, followed by an M.Sc. and now a nearly completed Ph.D. in Computational Physics.
+
+My M.Sc. focused on developing a time-of-flight PEPT tracking algorithm for detecting turbulent flow patterns which combined medical imaging techniques with computational physics.
+
+My Ph.D. research has centered around algorithm development, Monte Carlo simulations, and machine learning applications for particle tracking. I've built high-performance data pipelines in Python and C++, automated complex simulation workflows using Geant4/GATE, and mentored junior researchers across institutions including Imperial College London and iThemba LABS.
+
+This work has involved extensive use of statistical modeling, signal processing, and optimization techniques — all of which have strong overlap with modern data and software engineering practices.
+
+Throughout my studies, I focused on courses and projects that emphasized computational methods, mathematical modeling, and data-driven problem solving.
+
+**Undergraduate & Honours Level:**
+- Advanced Computational Physics (Python)
+- Statistical Mechanics
+- Quantum Mechanics & Signal Processing
+- Numerical Methods for Differential Equations
+- Experimental Techniques in Nuclear Physics
+
+**M.Sc. Research:**
+- Development of a time-of-flight PEPT tracking algorithm
+- CT-based modeling of industrial flotation cells for fluid dynamics analysis
+- Collaboration with Tygerberg Hospital and the University of Freiburg on medical imaging applications
+
+**Ph.D. Research:**
+- Automated Python/C++ pipelines for extracting motion data from PEPT experiments
+- Geant4/GATE simulation of PET scanners for testing tracking algorithms
+- Supervised ML-based denoising pipeline for improving signal clarity in turbulent flow studies
+- PEPT analysis of froth flotation to quantify differences in motion between hydrophobic and hydrophilic particles

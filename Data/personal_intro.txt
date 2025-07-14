@@ -1,0 +1,11 @@
+I'm Rayhaan, a computational physicist currently completing my PhD at the University of Cape Town. My research focused on algorithm development, Monte Carlo simulations, and machine learning for particle tracking using tools like Geant4/GATE, Python, and C++. Over the past five years, I've built high-performance data pipelines, automated complex simulation workflows, and mentored junior researchers across institutions like Imperial College London and iThemba LABS.
+
+While my academic background has been deeply technical, I’ve always had a passion for building clean, scalable systems which is why I’m now transitioning into software and automation roles. I enjoy turning complex problems into elegant, real-world solutions and thrive in collaborative environments where curiosity and experimentation drive innovation.
+
+I'm really drawn to Silvertree because of how you're using AI and automation to create meaningful, customer-focused improvements across purpose-driven brands. The idea of building tools that enhance both internal processes and user experiences resonates strongly with me, especially given my experience designing ML-based denoising pipelines and automating scientific data workflows during my PhD.
+
+Your focus on experimentation over rigid formalism fits perfectly with how I approach learning and problem-solving: by diving in, testing ideas, and iterating quickly. I also admire the trust you place in employees from day one and your commitment to making a positive impact, something I value deeply as someone who’s worked in academic and socially conscious research environments.
+
+In the next few years, I aim to grow into a role where I can take ownership of impactful automation and AI systems, while continuing to learn from senior engineers and cross-functional teams. I'm particularly interested in exploring how tools like RAG, agent-based systems, and workflow automation can be applied beyond traditional tech stacks which are areas where I believe my physics and simulation background gives me a unique edge.
+
+Silvertree’s rotational program offers an unparalleled opportunity to see how technology can shape different parts of an organization, and I’d love to evolve into a role where I can help bridge technical and business needs in a fast-moving, mission-driven environment.
