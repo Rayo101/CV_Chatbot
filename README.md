@@ -2,7 +2,7 @@
 As the name suggests. This is just a simple chatbot that has access to data that includes resume information and some additional bits. 
 
 ## How to run this?
-If running locally simple run create_and_store_text_embeddings.py and then run app.py. You should see a link in your terminal which should take you to the simple chat app. The chat app layout can be found [here](https://github.com/binary-hood/ChatBot).
+If running locally simple run create_and_store_text_embeddings.py and then run app.py. You should see a link in your terminal which should take you to the simple chat app. The chat app layout can be found [here](https://github.com/binary-hood/ChatBot). Don't forget to create your .env file and add your openAI API key. 
 
 ## Implementation
 Simple implmenetation of query expansion RAG. I like to think of this as one rung above naive RAG. This is shown below. 
