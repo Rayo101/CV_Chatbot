@@ -15,3 +15,6 @@ Have a look at create_and_store_text_embeddings to see how the embeddings are cr
 
 ## Data
 Feel free to look at the data folder. Replace it with whatever you want. If you're loading data of a different format you will likely need to change the function that loads the text data. 
+
+## Replit app
+You can checkout the replit [app](https://replit.com/@rayhaanperin1/CVChatbot). You might need to set the network port and you will also need the replit browser or app preview. The default port is 5000. 
